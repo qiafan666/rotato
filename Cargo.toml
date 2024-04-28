@@ -1,9 +1,11 @@
 [package]
 name = "gotato"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
-authors = ["qiafan@gmail.com"]
+authors = ["ning <<qiafan@gmail.com>>"]
+readme = "README.md"
 description = "Commonly used Rust tools."
+repository = "https://github.com/qiafan666/rotato"
 license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
