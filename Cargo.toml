@@ -2,7 +2,7 @@
 name = "rotato"
 version = "0.1.2"
 edition = "2021"
-authors = ["ning <<qiafan@gmail.com>>"]
+authors = ["ning <<qiafan666@gmail.com>>"]
 readme = "README.md"
 description = "Commonly used Rust tools."
 repository = "https://github.com/qiafan666/rotato"
